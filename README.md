@@ -17,3 +17,7 @@
 - [Guilded](https://www.guilded.gg/u/MASTRIO)
 - [Github... wait a second](https://github.com/MASTRIO)
 - *insert stuff here*
+
+### Main Projects I'm working on rn
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dyphae&repo=Dyphae)](https://github.com/Dyphae/Dyphae)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MASTRIO&repo=Venn-Engine)](https://github.com/MASTRIO/Venn-Engine)
