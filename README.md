@@ -16,7 +16,7 @@
 ### Socials I guess idk
 - [Guilded](https://www.guilded.gg/u/MASTRIO)
 - [Github... wait a second](https://github.com/MASTRIO)
-- *insert stuff here*
+- *insert more stuff here*
 
 ### Main Projects I'm working on rn
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dyphae&repo=Dyphae)](https://github.com/Dyphae/Dyphae)
