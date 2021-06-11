@@ -20,4 +20,4 @@
 
 ### Main Projects I'm working on rn
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dyphae&repo=Dyphae)](https://github.com/Dyphae/Dyphae)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MASTRIO&repo=Venn-Engine)](https://github.com/MASTRIO/Venn-Engine)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MASTRIO&repo=Fard)](https://github.com/MASTRIO/Fard)
