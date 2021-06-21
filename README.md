@@ -25,4 +25,4 @@
 
 ### Main Projects I'm working on rn or something
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dyphae&repo=Dyphae)](https://github.com/Dyphae/Dyphae)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MASTRIO&repo=Fard)](https://github.com/MASTRIO/Fard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MASTRIO&repo=Stick-bois-beat-each-other-up)](https://github.com/MASTRIO/Stick-bois-beat-each-other-up)
