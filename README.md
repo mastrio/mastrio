@@ -1,5 +1,8 @@
 ### Fancy Stats pog
 
+<!-- Ebic Trophies -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=MASTRIO&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!-- Github Stats -->
 [![My Epic Gamer Stats](https://github-readme-stats.vercel.app/api?username=MASTRIO&theme=shades-of-purple&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
