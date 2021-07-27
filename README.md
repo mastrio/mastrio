@@ -14,9 +14,10 @@
 - Python
 - C++
 - Javascript / Typescript
+- Rust
 
 ### Languages I want to learn so I can be big brain
-- Rust
+- Haskell
 - Dart / Flutter
 - Javascript but actually good at it lol
 - idk something else
