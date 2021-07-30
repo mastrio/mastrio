@@ -31,3 +31,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dyphae&repo=Dyphae)](https://github.com/Dyphae/Dyphae)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MASTRIO&repo=Scuffled)](https://github.com/MASTRIO/Scuffled)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MASTRIO&repo=Haunt)](https://github.com/MASTRIO/Haunt)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MASTRIO&repo=cogbox)](https://github.com/MASTRIO/cogbox)
