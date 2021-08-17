@@ -5,7 +5,7 @@
 <!-- My Top Languages -->
 [![Top Languages pog](https://github-readme-stats.vercel.app/api/top-langs/?username=MASTRIO&theme=shades-of-purple&langs_count=80&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Ebic Trophy thing
+### Epic Trophy thing
 <!-- Ebic Trophies -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=MASTRIO&theme=onedark)](https://github.com/MASTRIO/github-profile-trophy)
 
@@ -16,7 +16,7 @@
 - Javascript / Typescript
 - Rust
 
-### Languages I want to learn so I can be big brain
+### Languages I want to learn because yes
 - Haskell
 - Dart / Flutter
 - Javascript but actually good at it lol
@@ -31,4 +31,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dyphae&repo=Dyphae)](https://github.com/Dyphae/Dyphae)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MASTRIO&repo=Scuffled)](https://github.com/MASTRIO/Scuffled)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MASTRIO&repo=Haunt)](https://github.com/MASTRIO/Haunt)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MASTRIO&repo=cogbox)](https://github.com/MASTRIO/cogbox)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MASTRIO&repo=Universal-Swarm)](https://github.com/MASTRIO/Universal-Swarm)
