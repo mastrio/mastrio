@@ -15,6 +15,8 @@
 - C++
 - Javascript / Typescript
 - Rust
+- Nim
+- GDscript
 
 ### Languages I want to learn because yes
 - Haskell
