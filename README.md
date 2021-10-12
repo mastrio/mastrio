@@ -28,9 +28,3 @@
 - [Guilded](https://www.guilded.gg/u/MASTRIO)
 - [Github... wait a second](https://github.com/MASTRIO)
 - *insert more stuff here*
-
-### Main Projects I'm working on rn or something
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dyphae&repo=Dyphae)](https://github.com/Dyphae/Dyphae)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MASTRIO&repo=Scuffled)](https://github.com/MASTRIO/Scuffled)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MASTRIO&repo=Haunt)](https://github.com/MASTRIO/Haunt)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MASTRIO&repo=Universal-Swarm)](https://github.com/MASTRIO/Universal-Swarm)
