@@ -1,4 +1,4 @@
-### Fancy Stats pog
+### Fancy Stats
 <!-- Github Stats -->
 [![My Epic Gamer Stats](https://github-readme-stats.vercel.app/api?username=MASTRIO&theme=shades-of-purple&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -9,7 +9,7 @@
 <!-- Ebic Trophies -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=MASTRIO&theme=onedark)](https://github.com/MASTRIO/github-profile-trophy)
 
-### Languages I know cuz yes
+### Languages I know (well at least kind of know)
 - Java
 - Python
 - C++
@@ -18,13 +18,12 @@
 - Nim
 - GDscript
 
-### Languages I want to learn because yes
+### Languages I want to learn (eventually)
 - Haskell
 - Dart / Flutter
 - Javascript but actually good at it lol
 - idk something else
 
 ### Socials I guess idk
-- [Guilded](https://www.guilded.gg/u/MASTRIO)
 - [Github... wait a second](https://github.com/MASTRIO)
-- *insert more stuff here*
+- [Discord: MASTRIO#8761](https://www.youtube.com/watch?v=LLFhKaqnWwk)
