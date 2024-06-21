@@ -1,6 +1,6 @@
-Uni Student who likes to make things
+Guy who likes to code random crap and sometimes make games
 
-<br>
+
 <br>
 <br>
 <br>
