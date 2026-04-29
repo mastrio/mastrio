@@ -1,1 +1,1 @@
-    ![domg](domg.png)
+![domg](./domg.png)
